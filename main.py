@@ -20,7 +20,8 @@ it was told, which is precisely the problem; (5) it lands in one
 line — clean wording, no setup needing a second sentence, well
 inside the 200-character limit. The sting is that the human's
 own sloppy 2 a.m. instructions are the bottleneck, reported with
-a straight face.
+a straight face. The 94% is deliberate: nearly all of the window,
+so the actual work is the footnote and the re-reading is the job.
 """
 
 import os
